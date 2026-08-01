@@ -17,7 +17,6 @@ Macropad is a 3 key mini keyboard that uses QMK firmware and the button features
 # Case
 <img width="1231" height="602" alt="Screenshot 2026-07-31 235851" src="https://github.com/user-attachments/assets/13facaa1-3e7f-40b8-a28b-a7baca190671" />
 
-# BOM of parts
-XIAO RP2040 I think, 3x switches/sandwich stytle keycaps, 1x case, 4x bolts
+
 
 
