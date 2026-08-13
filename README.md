@@ -15,7 +15,14 @@ Macropad is a 3 key mini keyboard that uses QMK firmware and the button features
 <img width="345" height="802" alt="image" src="https://github.com/user-attachments/assets/b1b3e8eb-ada6-4d80-8488-4970a2297fd0" />
 
 # Case
-<img width="1231" height="602" alt="Screenshot 2026-07-31 235851" src="https://github.com/user-attachments/assets/13facaa1-3e7f-40b8-a28b-a7baca190671" />
+<img width="1045" height="722" alt="image" src="https://github.com/user-attachments/assets/36ca0c11-9ff3-4886-9ea2-64aaf3f35bb3" />
+<img width="1235" height="657" alt="image" src="https://github.com/user-attachments/assets/20b9422d-e6d3-42ce-a5c4-6ca76f38ef49" />
+<img width="1036" height="595" alt="image" src="https://github.com/user-attachments/assets/f747166a-98e8-4a56-a1bc-83f4f202e773" />
+<img width="1186" height="633" alt="image" src="https://github.com/user-attachments/assets/4bdf2450-b9a2-4274-86bc-0b522417cfc7" />
+<img width="1262" height="671" alt="image" src="https://github.com/user-attachments/assets/488a3afe-7027-4e54-a111-6dbd24018348" />
+
+
+
 
 
 
