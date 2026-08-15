@@ -22,6 +22,17 @@ Macropad is a 3 key mini keyboard that uses QMK firmware and the button features
 <img width="1262" height="671" alt="image" src="https://github.com/user-attachments/assets/488a3afe-7027-4e54-a111-6dbd24018348" />
 <img width="962" height="541" alt="image" src="https://github.com/user-attachments/assets/78b9061f-666b-4b81-8fc1-7e5c5dd87fce" />
 <img width="1000" height="575" alt="image" src="https://github.com/user-attachments/assets/97369ac6-d3d9-42a7-937e-feba1434df74" />
+BOM of parts
+-1 unsoldered Seeed XIAO RP2040 
+-20x through-hole 1N4148 Diodes
+-16x MX-Style switches
+-2x EC11 Rotary encoders
+-1x 0.91 inch OLED display
+-16x white blank DSA keycaps
+-20x SK6812 MINI-E LEDs
+-6x M3x16mm screws
+-6x M3x5mx4mm heatset inserts
+Source from all the parts: https://hackpad.hackclub.com/parts
 
 
 
